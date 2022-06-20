@@ -8,9 +8,9 @@
 </head>
 <body>
     <h3>Search in the Database</h3>
-    <form action="" method="POST">
-        <input type="text" placeholder="Search ...">
-        <input type="submit" name="search" value="Search">
+    <form action="" metihod="POST">
+        <input type="text" placeholder="Search ..."><br>
+        <input type="submit" name="search" id="search" value="Search">
     </form>
 </body>
 </html>
